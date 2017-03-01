@@ -13,7 +13,11 @@ public class Java1 {
 
         if(input.equals("Rickie")){
             System.out.println("Ye boi Rickie");
-        }
+            else if(input.equals("Gavin")){
+                System.out.println("Oh shit Whattup");
+
+
+            }
 		
 
 
