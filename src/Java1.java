@@ -11,18 +11,12 @@ public class Java1 {
 
         System.out.println();
 
-        if(input.equals("Rickie")){
+        if (input.equals("Rickie")) {
             System.out.println("Ye boi Rickie");
-            else if(input.equals("Gavin")){
-                System.out.println("Oh shit Whattup");
-
-
-            }
-		
-
-
+        } else if (input.equals("Gavin")) {
+            System.out.println("Oh shit Whattup");
+        } else if (input.equals("Chris")) {
+            System.out.println("Where are my memes?");
         }
-
     }
-
-
+}
